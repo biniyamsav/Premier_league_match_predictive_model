@@ -21,7 +21,8 @@ The user selects a home team and an away team from a dropdown. The model predict
 4. **UI** — Streamlit app with dropdown team selectors and a styled score display.
 
 ---
-
+/home/biniyam/Desktop/Premier_league_match_predictive_model/image copy.png
+/home/biniyam/Desktop/Premier_league_match_predictive_model/image.png
 ## Model Performance
 
 | Metric | Score |
