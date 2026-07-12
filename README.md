@@ -10,6 +10,14 @@ The user selects a home team and an away team from a dropdown. The model predict
 
 ---
 
+## Screenshots
+
+![App Interface](image.png)
+
+![Prediction Result](image%20copy.png)
+
+---
+
 ## How It Works
 
 1. **Data** — 10 seasons of Premier League match data (E0.csv through E0(9).csv) sourced from football-data.co.uk. Each file contains match stats including shots, fouls, corners, cards, and betting odds from three bookmakers (Bet365, Betway, Pinnacle).
@@ -43,7 +51,6 @@ R² of 0.42 means the model explains 42% of the variation in goals scored — so
 
 **Shots on target are the strongest predictor.** When in-match stats are included, R² improves significantly — shots on target (HST, AST) carry the most signal. This is consistent with football analytics research showing expected goals (xG) are heavily shot-based.
 
----
 
 ## Limitations
 
@@ -98,5 +105,5 @@ Match data sourced from [football-data.co.uk](https://www.football-data.co.uk) �
 
 ## Author
 
-**Biniyam** — 2nd year Computer Science student at Addis Ababa University  
+**Biniyam**   
 GitHub: [@biniyamsav](https://github.com/biniyamsav)
